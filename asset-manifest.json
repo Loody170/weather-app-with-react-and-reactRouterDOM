@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-app-with-react-and-reactRouterDOM/static/css/main.e6c13ad2.css",
+    "main.js": "/weather-app-with-react-and-reactRouterDOM/static/js/main.e2a21c1d.js",
+    "index.html": "/weather-app-with-react-and-reactRouterDOM/index.html",
+    "main.e6c13ad2.css.map": "/weather-app-with-react-and-reactRouterDOM/static/css/main.e6c13ad2.css.map",
+    "main.e2a21c1d.js.map": "/weather-app-with-react-and-reactRouterDOM/static/js/main.e2a21c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e2a21c1d.js"
+  ]
+}
