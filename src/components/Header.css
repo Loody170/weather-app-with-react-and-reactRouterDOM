@@ -1,0 +1,35 @@
+/* Header.css */
+
+nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  
+  li {
+    margin-right: 10px;
+  }
+  
+  li:last-child {
+    margin-right: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
+  a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  
